@@ -38,7 +38,7 @@
 |11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |12|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |13|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
-|14|Eugene Nesterenko       | YevheniiN281 | https://github.com/YevheniiN281/my_website_collaboration   | https://eugene-nesterenko-lbs.netlify.app/       |2023-05-11 |
+|14|Eugene Nesterenko       | YevheniiN281 | TBA   | TBA       |2023-05-11 |
 |15|Shashvat Somany       | ssomany12 |https://github.com/ssomany12   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |16|Qi Ren       | 1817 |<https://github.com/kostis-christodoulou/my_gorgeous_website>  |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |17|Max Cheatle       | maxcheatle | https://github.com/maxcheatle/dsb_2023_website | https://maxcheatle.netlify.app/ |2023-05-11 |
@@ -80,4 +80,5 @@
 |53| Ameera Jimoh | ameerajimoh | https://github.com/ameerajimoh/my_website/ | https://ajimoh2023-portfolio.netlify.app | 2023-06-18 | 
 |54| Anirban Mukhopadhyay | anirbanm | https://github.com/muk-anirban/my_website | https://anirban-portfolio-dsb.netlify.app | 2023-06-18 | 
 |55| Pham Viet Hung | viethungpham94 | https://github.com/viethungpham94/website2 | https://pham-viet-hung.netlify.app | 2023-06-18 | 
-|56| Gaia Di Emanuele | GaiaDiEmanuele | https://github.com/GaiaDiEmanuele/My-website---Gaia-Di-Emanuele-.git | https://gaia-portfolio.netlify.app/ | 2023-06-18 | 
+|56| Gaia Di Emanuele | GaiaDiEmanuele | https://github.com/GaiaDiEmanuele/My-website---Gaia-Di-Emanuele-.git | https://gaia-portfolio.netlify.app/ | 2023-06-18
+|57| Danyel deSa | danyeldesa | https://github.com/danyeldesa/my_website | https://danyel-website.netlify.app/ | 2023-06-18
