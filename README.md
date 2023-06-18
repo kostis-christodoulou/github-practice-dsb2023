@@ -53,7 +53,7 @@
 |26|Nianyu Li       | NianyuLi |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |27|Jacqui Cole       | jacquicole |<https://github.com/jacquicole>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |28|Guido Bozzano       | guidobozzano |<[https://github.com/guidobozzano/mywebsite]>   |<https://gbozzano-portfolio.netlify.app/>        |2021-08-28 |
-|29|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website]>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|29|Juan Aranguren       | Juanaranguren1995 |<https://github.com/juanaranguren1995/my_website]>   |<https://app.netlify.com/sites/juan-aranguren/>        |2021-08-28 |
 |30|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |31|IGOR KUZNETSOV       | IgorK7|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |32|Aastha Kamra       | aasthakamra|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
