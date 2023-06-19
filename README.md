@@ -62,7 +62,7 @@
 |35|Victor Rios Faria       | vrfaria|<https://github.com/vrfaria/my_website>   |<https://vrfaria-portfolio.netlify.app/>        |2023-05-15 |
 |36|Saagar Hemrajani       | shemrajani94|<https://github.com/shemrajani94/saagars_gorgeous_website>   |<https://saagar-portfolio.netlify.app/>        |2023-05-16 |
 |37|Jean-Michel Staelens   | jmstaelens95 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|38|BRENT LEWIS       | brentplewis|<https://github.com/brentplewis/blwebsite>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-16 |
+|38|Brent Lewis       | brentplewis|<https://github.com/brentplewis/blwebsite>   |<https://brent-lewis-website.netlify.app/>        |2023-05-16 |
 |39|Karen Badanyan       | karenbadanyan|<https://github.com/karenbadanyan/websiteX>    |<https://karenbadanyan-portfolio.netlify.app/>        |2023-06-11 |
 |40|Mink Teeraseranee       | Varachya|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 |
 |41|Abdulaziz Abi Haydar       | Abdulaziz1aa|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
